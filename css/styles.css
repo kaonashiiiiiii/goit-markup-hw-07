@@ -302,7 +302,6 @@ body {
     display: flex;
     flex-basis: calc(100% / 4);
     gap: 36px;
-    justify-content: center;
 }
 /*!mobile menu ! */
 
@@ -314,8 +313,8 @@ body {
     background-position: center;
     background-size: cover;
     background-color: var(--text-color);
-    padding-bottom: 188px;
-    padding-top: 188px;
+    padding-bottom: 112px;
+    padding-top: 112px;
 }
 
 @media (min-device-pixel-ratio: 2),
