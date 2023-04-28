@@ -380,8 +380,10 @@ body {
     flex-wrap: wrap;
     align-items: center;
     gap: 72px;
-    padding-top: 96px;
-    padding-bottom: 96px;
+}
+.second-section-container {
+    margin-bottom: 96px;
+    margin-top: 96px;
 }
 .feauter-soc-link {
     width: 264px;
@@ -418,8 +420,8 @@ body {
 /* !!!!!!!!!!!!!!SECTION FOUR !!!!!!!!!!!!*/
 .team {
     background-color: var(--background-section-four);
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 96px;
+    padding-bottom: 96px;
 }
 
 .team-title {
